@@ -43,9 +43,9 @@ Problem Solving • Team Collaboration • Time Management • Adaptability
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivakarthi2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakarthi2005&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakarthi2005&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikas2005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas2005&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas2005&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
